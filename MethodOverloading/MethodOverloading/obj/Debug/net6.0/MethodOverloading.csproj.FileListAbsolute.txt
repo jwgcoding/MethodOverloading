@@ -1,0 +1,15 @@
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.AssemblyReference.cache
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\refint\MethodOverloading.dll
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache
+D:\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll
